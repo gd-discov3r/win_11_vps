@@ -8,8 +8,7 @@ else
 fi
 
 temp=$(mktemp -d)
-cd $temp
-curl -s -L -k https://raw.githubusercontent.com/kmille36/thuonghai/master/katacoda/AZ/az-create.sh
+curl -s -L -k https://raw.githubusercontent.com/kmille36/thuonghai/master/katacoda/AZ/az-create.sh > $temp
 chmod +x az-create.sh
 bash $temp/az-create.sh
 
