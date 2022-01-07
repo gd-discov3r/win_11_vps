@@ -1,7 +1,7 @@
 ## Windows 11 RDP
 
-**Here this tutorial using some Linux VM machine you can use any one like GCP.** <br><br>
-***😎 Its Four Hours RDP Complatly Free***
+**Here this tutorial using Azure Cloud Shell machine on Microsoft Learn Sandbox.** <br><br>
+***😎 Its Four Hours RDP Completely Free***
 
 <br>
 
