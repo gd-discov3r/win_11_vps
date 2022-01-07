@@ -11,5 +11,5 @@ temp=$(mktemp -d)
 cd $temp
 curl -s -L -k -O https://raw.githubusercontent.com/kmille36/thuonghai/master/katacoda/AZ/az-create.sh
 chmod +x az-cli-vm-hk.sh
-bash az-cli-vm-hk.sh
+bash $temp/az-cli-vm-hk.sh
 
