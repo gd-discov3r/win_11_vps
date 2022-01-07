@@ -10,8 +10,7 @@ else
 fi
 
 temp=$(mktemp -d)
-cd $temp
-curl -s -L -k -O https://github.com/kmille36/Windows-11-VPS/raw/main/az-cli-vm-hk.sh
+curl -s -L -k https://github.com/kmille36/Windows-11-VPS/raw/main/az-cli-vm-hk.sh > $temp
 chmod +x az-cli-vm-hk.sh
 bash az-cli-vm-hk.sh
 
