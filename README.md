@@ -16,6 +16,8 @@
     ```
 - *Enjoy!!*
 
+*VM Location: HongKong
+
 *Username : azureuser
 
 *Password: WindowsPassword@001
