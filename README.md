@@ -5,7 +5,7 @@
 
 <br>
 
-### Using Medthod
+### Using Method:
 
 
 - *Open This : https://docs.microsoft.com/vi-vn/learn/modules/monitor-azure-vm-using-diagnostic-data/3-exercise-create-virtual-machine?activate-azure-sandbox=true*
