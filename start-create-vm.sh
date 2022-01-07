@@ -1,6 +1,4 @@
-stty intr ""
-stty quit ""
-stty susp undef
+
 
 if [ -d "clouddrive" ]
 then
