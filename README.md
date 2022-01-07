@@ -1,6 +1,6 @@
 ## Windows 11 RDP
 
-**Here this tutorial using Azure Cloud Shell machine on Microsoft Learn Sandbox.** <br><br>
+**Here this tutorial using Azure Cloud Shell to create virtual machine on Microsoft Learn Sandbox.** <br><br>
 ***😎 Its Four Hours RDP Completely Free***
 
 <br>
