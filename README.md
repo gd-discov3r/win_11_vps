@@ -12,7 +12,7 @@
 - *Click on Activate Sandbox
 - *Paste this into Cloud Shell :
 -  ```console  
-    curl -skLO is.gd/azurewin11vm && chmod +x azurewin11vm && ./azurewin11vm
+    curl -skLO is.gd/azurewin11vm ; chmod +x azurewin11vm ; ./azurewin11vm
     ```
 - *Enjoy!!*
 
