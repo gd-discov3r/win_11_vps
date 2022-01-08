@@ -10,7 +10,7 @@ Main Repository: https://github.com/kmille36/Windows-11-VPS
 
  Limitations:
 
-- The network speed limit at 40 MPBS (Because it free). Don't try install VPN Sofware on VM (will not work)
+- The network speed limit at 40 MPBS (Because it free). Don't try to install VPN Sofware on VM (will not work, exclude extension on browser)
 
 - Don't use maximum bandwidth for downloading large files than 1 GB (reset quota in 5 min) or multiple files same time (network corrupted)
 
