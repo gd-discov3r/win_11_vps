@@ -27,7 +27,7 @@ Main Repository: https://github.com/kmille36/Windows-11-VPS
 
 =================================================================
 
- Note:
+ Notes:
 
 - THIS IS ONLY FOR EDUCATIONAL PURPOSES
 
