@@ -14,7 +14,7 @@ Main Repository: https://github.com/kmille36/Windows-11-VPS
 
 - Don't use maximum bandwidth for downloading large files (network corrupted)
 
-- If the network disconnected, you must go to azure portal > all resources > select all (uncheck cloudshell) then delete and re-run the script again
+- If the network disconnected or not working, you must go to azure portal > all resources > select all (uncheck cloudshell) then delete and re-run the script again
 
 ================================================================
 
