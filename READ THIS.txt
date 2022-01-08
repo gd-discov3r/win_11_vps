@@ -1,0 +1,30 @@
+================================================================
+
+Thanks For Using Windows 11 RDP On Azure SandBox Script:
+
+Main Repository: https://github.com/kmille36/Windows-11-VPS
+
+================================================================
+
+================================================================
+
+ Limitations:
+
+- The network speed limit at 40 MPBS
+
+- Don't use maximum bandwidth for downloading large files (network corrupted)
+
+- If the network disconnected, you must go to azure portal > all resources > select all (uncheck cloudshell) then delete and re-run the script again
+
+================================================================
+
+ Note:
+
+- THIS IS ONLY FOR EDUCATIONAL PURPOSES
+
+- DON'T USE FOR MINING OR ILLEGAL USE
+
+- DON'T RESTART VPS, THIS MAY MAKE NETWORK INTERRUPT
+
+
+================================================================
