@@ -4,7 +4,7 @@ Thanks For Using Windows 11 RDP On Azure SandBox Script:
 
 Main Repository: https://github.com/kmille36/Windows-11-VPS
 
-Author Facebook: https://fb.com/thuong.hai.581
+Author Facebook: https://facebook.com/thuong.hai.581
 
 ================================================================
 
