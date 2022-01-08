@@ -12,7 +12,7 @@ Main Repository: https://github.com/kmille36/Windows-11-VPS
 
 - The network speed limit at 40 MPBS (Because it free)
 
-- Don't use maximum bandwidth for downloading large files than 1GB or multiple files same time (network corrupted)
+- Don't use maximum bandwidth for downloading large files than 1 GB or multiple files same time (network corrupted)
 
 - If the network disconnected or not working, you must go to azure portal > all resources > select all (uncheck cloudshell) then delete and re-run the script again
 
