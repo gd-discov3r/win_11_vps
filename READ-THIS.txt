@@ -37,7 +37,5 @@ Join our Discord: https://discord.gg/cE6tdwe5sy
 
 - DON'T USE FOR MINING OR ILLEGAL USE
 
-- DON'T RESTART VPS, THIS MAY MAKE NETWORK INTERRUPT
-
 
 ================================================================
