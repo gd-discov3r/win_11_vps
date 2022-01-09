@@ -16,7 +16,7 @@ Join our Discord: https://discord.gg/cE6tdwe5sy
 
 - The network speed limit at 40 MPBS (Because it free). Don't try to install VPN Sofware on VM (will not work, exclude VPN extension on browser can be use )
 
-- Don't use maximum bandwidth for downloading large files than 4 GB (quota reset in 5 min) or downloading multiple files same time ( = network corrupted)
+- Don't use maximum bandwidth for downloading large files than 4 GB (quota reset in 5 min) or downloading multiple files same time. Using any download accelerator software like IDM, FDM,... ( = network corrupt)
 
 - If the network disconnected or not working, you must go to azure portal > all resources > select all (uncheck cloudshell) then delete and re-run the script again
 
