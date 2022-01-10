@@ -14,7 +14,7 @@ Join our Discord: https://discord.gg/cE6tdwe5sy
 
  Limitations:
  
-- Added alternative internet server ( 15 MBPS) auto-connect if main internet server failed to connect. 
+- Added alternative internet server ( 15 MBPS) auto-connect if main internet server fails to connect. 
 
 - The network speed maximum about 100 MBPS. Don't try to install VPN Sofware on VM (will not work, exclude VPN extension on browser can be use )
 
