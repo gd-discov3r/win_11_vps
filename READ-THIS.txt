@@ -16,11 +16,11 @@ Join our Discord: https://discord.gg/cE6tdwe5sy
  
 - Added alternative internet server ( 20 MBPS) auto-connect if main internet server fails to connect (you can use download accelerator software: IDM, FDM,... on server 2).
 
-- The network speed maximum about 100 MBPS. Don't try to install VPN Sofware on VM (will not work, exclude VPN extension on browser can be use )
+- The network speed maximum about 100 MBPS. Don't try to install VPN Sofware on VM (will not work, exclude VPN extension on browser can be use).
 
-- Don't use maximum bandwidth for downloading/uploading large files than 4 GB (quota reset in 5 min) or downloading multiple files same time. Using any download accelerator software like IDM, FDM,... ( = network corrupt)
+- Don't use maximum bandwidth for downloading/uploading large files than 4 GB (quota reset in 5 min) or downloading multiple files same time. Using any download accelerator software like IDM, FDM,... ( = network corrupt).
 
-- If the main network disconnected or not working, wait until an alternative internet server setup dialog appears (about 60s) or you must go to azure portal > all resources > select all (uncheck cloudshell) then delete and re-run the script again
+- If the main network disconnected or not working, wait until an alternative internet server setup dialog appears (about 60s) or you must go to azure portal > all resources > select all (uncheck cloudshell) then delete and re-run the script again.
 
 ================================================================
 
