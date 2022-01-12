@@ -14,7 +14,7 @@ Join our Discord: https://discord.gg/cE6tdwe5sy
 
  Limitations:
  
-- Added alternative internet server ( 20 MBPS) auto-connect if main internet server fails to connect (you can use download accelerator software: IDM, FDM,... on server 2).
+- Added alternative internet server ( up to 40 MBPS with IDM) auto-connect if main internet server fails to connect (you can use download accelerator software: IDM, FDM,... on server 2).
 
 - The network speed maximum about 100 MBPS. Don't try to install VPN Sofware on VM (will not work, exclude VPN extension on browser can be use).
 
