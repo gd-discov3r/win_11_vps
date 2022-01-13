@@ -29,7 +29,7 @@ Join our Discord: https://discord.gg/cE6tdwe5sy
 
  VM Specs:
  
-- DS2v2 (2vCPU 7GB RAM 64GB Premium SSD). Windows 11 Enterprise
+- DS2v2 (2vCPU 7GB RAM 128GB Premium SSD). Windows 11 Pro 
 
 =================================================================
 
