@@ -49,4 +49,6 @@ DON'T USE FOR MINING OR ILLEGAL USE
 
 1H: https://docs.microsoft.com/vi-vn/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/3-create-a-vm?activate-azure-sandbox=true
 
+Katacoda site with more azure location (HK, AU, JP, KR, US, EU): https://katacoda.com/katacodaazure2711/scenarios/test-server-for-dev-only
+
 #### Main Repository : https://github.com/kmille36/Windows-11-VPS
