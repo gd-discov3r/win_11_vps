@@ -19,7 +19,7 @@
     ```
 - *Enjoy!!*
 
-*VM Location: HongKong
+*VM Location: Random
 
 *Username : azureuser
 
