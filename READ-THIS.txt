@@ -10,8 +10,6 @@ Join our Discord: https://discord.gg/cE6tdwe5sy
 
 ================================================================
 
-================================================================
-
  Limitations:
  
 - Added alternative internet server (can up to 40 MBPS with IDM) auto-connect if main internet server fails to connect (you can use download accelerator software: IDM, FDM,... on server 2).
@@ -19,9 +17,6 @@ Join our Discord: https://discord.gg/cE6tdwe5sy
 - The network speed maximum is about 100 MBPS. Don't try to install VPN Sofware on VM (this will not work, exclude VPN extension on browser can be used).
 
 - If the main network disconnect or not work, wait until an alternative internet server setup dialog appears (about 60s) or you must go to azure portal > all resources > select all (uncheck cloudshell) then delete and re-run the script again.
-
-================================================================
-
 
 ================================================================
 
