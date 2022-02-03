@@ -39,5 +39,10 @@ Join our Discord: https://discord.gg/cE6tdwe5sy
 
 - DON'T USE FOR MINING OR ILLEGAL USE
 
+================================================================
+
+ Changelog:
+
+- 2/3/2022: Improve internet stability when downloading large files
 
 ================================================================
