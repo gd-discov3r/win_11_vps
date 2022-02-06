@@ -34,7 +34,7 @@ Join our Discord: https://discord.io/RDPEmpire2711
 
 ================================================================
 
- Changelog:
+ Changelogs:
 
 - 2/3/2022: Improve internet stability when downloading large files.
 
