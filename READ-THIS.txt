@@ -38,6 +38,6 @@ Join our Discord: https://discord.io/RDPEmpire2711
 
 - 3/2/2022: Improve internet stability when downloading large files.
 
-- 7/2/2022: Added Chocolatey and Chocolatey GUI (software management).
+- 7/2/2022: Added Chocolatey and Chocolatey GUI (software management)
 
 ================================================================
