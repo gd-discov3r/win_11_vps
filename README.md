@@ -3,7 +3,8 @@
 **Here this tutorial using Azure Cloud Shell to create Virtual Machine on Microsoft Learn Sandbox.** <br><br>
 ***😎 Its Four Hours RDP Completely Free.***
 
-#### DUE TO AZ CLI IN MS LEARN ERROR, USE KATACODA SITE INSTEAD UNTIL PROBLEM IS FIXED : https://katacoda.com/katacodaazure2711/scenarios/test-server-for-dev-only
+### Azure Cloud Shell is fixed !!! You can use both.
+
 
 <br>
 
