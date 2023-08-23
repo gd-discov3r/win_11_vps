@@ -1,0 +1,6 @@
+jobs:
+  example-job:
+    steps:
+      - name: Run build script
+        run: start-create-vm.sh 
+        shell: bash
